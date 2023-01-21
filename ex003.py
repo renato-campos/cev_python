@@ -4,7 +4,7 @@
 
 # Aluno: Renato
 
-# Exercícios da Aula 04
+# Exercícios da Aula 04 com complementação na aula 06
 
 # Exercício 003: criar um script que leia dois números e tente mostrar a soma entre eles
 
